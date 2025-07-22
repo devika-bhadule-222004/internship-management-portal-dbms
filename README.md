@@ -5,7 +5,6 @@ A MySQL-based project to manage student internships, companies, and faculty guid
 ## 🛠️ Tech Stack
 - MySQL
 - SQL Queries
-- ER Model
 
 ## 📄 Author
 Devika Bhadule  
